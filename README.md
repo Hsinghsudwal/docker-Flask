@@ -1,7 +1,10 @@
-'''1. setup environment
+'''
+
+1. setup environment
 2. install dependencies
 3. run python app if it work
-4. setup dockerfile'''
+4. setup dockerfile
+5. '''
 
 # see how many images on docker
 
