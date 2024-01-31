@@ -1,14 +1,9 @@
-# setup environment
-
-# install dependencies
-
-# run python app if it work
-
-# setup dockerfile
+'''1. setup environment
+2. install dependencies
+3. run python app if it work
+4. setup dockerfile'''
 
 # see how many images on docker
-
-docker ps
 
 docker images
 
